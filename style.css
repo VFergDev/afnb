@@ -65,3 +65,20 @@ body{
     border-color: #817f7f;
     cursor: pointer;
 }
+
+@media (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+
+    .btn-grid {
+        grid-template-columns: 1fr;
+    }
+
+    #text,
+    .btn {
+        font-size: .8rem;
+        font-weight: normal;
+    }
+
+}
