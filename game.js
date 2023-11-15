@@ -87,7 +87,7 @@ const textNodes = [
         text: "Always forward never back... \nWhat you skip, is what you lack. \nIts your choice, which way to go.  \nSo many guesses, one way to know. \nTake what you've learned, know what is fact. \nAlways forward never back.",
         media: {
             type: 'video',
-            source: '/images/afnb.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/afnb.mp4',
         },
         options: [
             {
@@ -101,7 +101,7 @@ const textNodes = [
         text: 'You wake up in a strange place. A dense mist blankets the mysterious Everwood forest. You know it is Everwood, like "... memories of whispers" The ancient trees loom overhead, their branches entwined in a dance that seems to defy time. As you step into the fog, you feel a subtle push forward, and the adventure unfolds.',
         media: {
             type: 'image',
-            source: '/images/dense-mist.png',
+            source: 'https://vfergdev.github.io/afnb/images/dense-mist.png',
         },
         options: [
             {
@@ -119,7 +119,7 @@ const textNodes = [
         text: 'The fireflies lead you to a hidden glade, where a shimmering pool reflects the moonlight. A figure makes noise coming out of the brush... \nthey ask "Answer a riddle or hear a joke... Trust there are always consequences to both',
         media: {
             type: 'image',
-            source: '/images/fireflies.png',
+            source: 'https://vfergdev.github.io/afnb/images/fireflies.png',
         },
         options: [
             {
@@ -139,7 +139,7 @@ const textNodes = [
         text: 'The closer you get the brighter the blue. You pick it up and its a jar of blue glowing goo',
         media: {
             type: 'video',
-            source: '/images/goo-tree.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/goo-tree.mp4',
         },
         options: [
             {
@@ -158,7 +158,7 @@ const textNodes = [
         text: 'Surrounded we are, messages in the glowing celestial hues, dances in the night, small as an ant, whispers secrets to the moon',
         media: {
             type: 'video',
-            source: '/images/lake.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/lake.mp4',
         },
         options: [
             {
@@ -177,7 +177,7 @@ const textNodes = [
         text: 'You venture forth in search of answers. You arrive at a road with a merchant along the side.',
         media: {
             type: 'image',
-            source: '/images/merchant-trade.png',
+            source: 'https://vfergdev.github.io/afnb/images/merchant-trade.png',
         },
         options: [
             {
@@ -204,7 +204,7 @@ const textNodes = [
         text: '"Your children are not as attractive as your paintings Mallius"\nto which Mallius replied \n"That is true because I make pictures in the daylight and my children in the dark. \n That was fun. And your reward is simple... The answers you seek can be found at the Rish temple. And this amulet for truth',
         media: {
             type: 'image',
-            source: '/images/baby.png',
+            source: 'https://vfergdev.github.io/afnb/images/baby.png',
         },
         options: [
             {
@@ -219,7 +219,7 @@ const textNodes = [
         text: 'After leaving you start to fall tired and stumble upon a small town overlooked by a dark castle.',
         media: {
             type: 'image',
-            source: '/images/town.png',
+            source: 'https://vfergdev.github.io/afnb/images/town.png',
         },
         options: [
             {
@@ -241,7 +241,7 @@ const textNodes = [
         text: 'That is it, you got it right! Now they will always be along your path to guide with lights. They light your way to a bustling town. overlooked by a castle',
         media: {
             type: 'image',
-            source: '/images/town.png',
+            source: 'https://vfergdev.github.io/afnb/images/town.png',
         },
         options: [
             {
@@ -266,7 +266,7 @@ const textNodes = [
         text: 'You are so tired that you fall asleep while exploring the castle \n A terrifying MONSTER appeared!',
         media: {
             type: 'image',
-            source: '/images/monster.png',
+            source: 'https://vfergdev.github.io/afnb/images/monster.png',
         },
         options: [
             {
@@ -291,7 +291,7 @@ const textNodes = [
         text: 'How unfortunate of a tale and song... You guessed wrong.your journey takes a turn to my dungeon in Alderrong',
         media: {
             type: 'image',
-            source: '/images/dungeon.png',
+            source: 'https://vfergdev.github.io/afnb/images/dungeon.png',
         },
         options: [
             {
@@ -305,7 +305,7 @@ const textNodes = [
         text: 'Without any money to rent a room you break into the nearest inn and fall asleep. After a few hours of sleep the owner of the inn finds you and calls the the town guards lock you in a cell...',
         media: {
             type: 'image',
-            source: '/images/inn.png',
+            source: 'https://vfergdev.github.io/afnb/images/inn.png',
         },
         options: [
             {
@@ -335,7 +335,7 @@ const textNodes = [
         text: 'You found a stable with some hay to sleep on. You were found by the owners; they offered you hot soup and a warm fire.',
         media: {
             type: 'image',
-            source: '/images/stable.png',
+            source: 'https://vfergdev.github.io/afnb/images/stable.png',
         },
         options: [
             {
@@ -349,7 +349,7 @@ const textNodes = [
         text: 'Welcome to the Alderrong Dugeon Nudk is the name',
         media: {
             type: 'video',
-            source: '/images/prisoner.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/prisoner.mp4',
         },
         options: [
             {
@@ -363,7 +363,7 @@ const textNodes = [
         text: 'They tell you all you need to know, like who to see and where to go. "Beware of Mibdens, and take this food to go" \nThey know its always your choice \n no matter what you have heard. They only requirement is never backwards, always forward.',
         media: {
             type: 'image',
-            source: '/images/fireplace.png',
+            source: 'https://vfergdev.github.io/afnb/images/fireplace.png',
         },
         options: [
             {
@@ -388,7 +388,7 @@ const textNodes = [
         text: 'The castle is even more grand up close. As you go inside you are greeted by your host',
         media: {
             type: 'video',
-            source: '/images/castle.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/castle.mp4',
         },
         options: [
             {
@@ -402,7 +402,7 @@ const textNodes = [
         text: 'You fought your way out into an alley. Sword in hand. You have but two choice face it or ran/.',
         media: {
             type: 'image',
-            source: '/images/sword-in-hand.png',
+            source: 'https://vfergdev.github.io/afnb/images/sword-in-hand.png',
         },
         options: [
             {
@@ -421,7 +421,7 @@ const textNodes = [
         text: 'To Be Continued...',
         media: {
             type: 'video',
-            source: '/images/tbc.mp4',
+            source: 'https://vfergdev.github.io/afnb/images/tbc.mp4',
         },
         options: [
             {
