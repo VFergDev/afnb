@@ -402,7 +402,7 @@ const textNodes = [
         text: 'You fought your way out into an alley. Sword in hand. You have but two choice face it or ran/.',
         media: {
             type: 'image',
-            source: '/images/stable.png',
+            source: '/images/sword-in-hand.png',
         },
         options: [
             {
@@ -410,8 +410,8 @@ const textNodes = [
                 nextText: 16
             },
             {
-                text: 'Leep a low profile, find a way off the streets',
-                requiredState: (currentState) => currentState.sword,
+                text: 'Keep a low profile, find a way off the streets',
+                // requiredState: (currentState) => currentState.sword,
                 nextText: 30
             }
         ]
@@ -426,7 +426,7 @@ const textNodes = [
         options: [
             {
                 text: 'You know where you are going... not sure what to do!',
-                requiredState: (currentState) => currentState.light,
+                requiredState: (currentState) => currentState.rish,
                 nextText: -1
             },
             {
@@ -435,12 +435,17 @@ const textNodes = [
                 nextText: -1
             },
             {
+                text: 'By light of the fireflies, you are on your way',
+                requiredState: (currentState) => currentState.light,
+                nextText: -1
+            },
+            {
                 text: 'Coin in hand where to next',
                 requiredState: (currentState) => currentState.coin,
                 nextText: -1
             },
             {
-                text: 'start again',
+                text: 'To The Beginning',
                 nextText: -1
             },
             {
