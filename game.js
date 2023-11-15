@@ -86,8 +86,8 @@ const textNodes = [
         id: 0,
         text: "Always forward never back... \nWhat you skip, is what you lack. \nIts your choice, which way to go.  \nSo many guesses, one way to know. \nTake what you've learned, know what is fact. \nAlways forward never back.",
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/afnb.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/afnb.gif',
         },
         options: [
             {
@@ -138,8 +138,8 @@ const textNodes = [
         id: 3,
         text: 'The closer you get the brighter the blue. You pick it up and its a jar of blue glowing goo',
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/goo-tree.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/goo-tree.gif',
         },
         options: [
             {
@@ -157,8 +157,8 @@ const textNodes = [
         id: 4,
         text: 'Surrounded we are, messages in the glowing celestial hues, dances in the night, small as an ant, whispers secrets to the moon',
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/lake.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/lake.gif',
         },
         options: [
             {
@@ -348,8 +348,8 @@ const textNodes = [
         id: 14,
         text: 'Welcome to the Alderrong Dugeon Nudk is the name',
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/prisoner.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/prisoner.gif',
         },
         options: [
             {
@@ -387,8 +387,8 @@ const textNodes = [
         id: 16,
         text: 'The castle is even more grand up close. As you go inside you are greeted by your host',
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/castle.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/castle.gif',
         },
         options: [
             {
@@ -420,8 +420,8 @@ const textNodes = [
         id: 30,
         text: 'To Be Continued...',
         media: {
-            type: 'video',
-            source: 'https://vfergdev.github.io/afnb/images/tbc.mp4',
+            type: 'gif',
+            source: 'https://vfergdev.github.io/afnb/images/tbc.gif',
         },
         options: [
             {
