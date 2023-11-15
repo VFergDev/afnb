@@ -116,7 +116,7 @@ const textNodes = [
     },
     {
         id: 2,
-        text: 'The fireflies lead you to a hidden glade, where a shimmering pool reflects the moonlight. A figure makes noise coming out of the brush... \nthey ask "Answer a riddle or hear a joke... Trust there are always consequences to both',
+        text: 'The fireflies lead you to a hidden glade, where a shimmering pool reflects the moonlight. A figure makes noise coming out of the brush... \nthey ask "Answer a riddle or hear a quote... Trust there are always consequences to both',
         media: {
             type: 'image',
             source: 'https://vfergdev.github.io/afnb/images/fireflies.png',
@@ -129,7 +129,7 @@ const textNodes = [
             },
             {
                 text: 'Or a quote',
-                setState: {joke: true },
+                setState: {quote: true },
                 nextText: 6
             },
         ]
